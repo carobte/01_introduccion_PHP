@@ -55,7 +55,7 @@ Framework de php, su ORM es Eloquent.
 * "prefer-dist" opcional 
 
 ## Instalar el instalador de laravel
-<code> composer global require laravel/laravel </code>
+<code> composer global require laravel/installer </code>
 <br><br> 
 Cuando se instala esto, podemos crear proyectos con: <code>laravel new "Nombre"</code>
 <br>
